@@ -33,3 +33,5 @@ Aen the output text "Generated logo.svg" is printed in the command line
 When I open the `logo.svg` file in a browser
 
 Then I am shown a 300x200 pixel image that matches the criteria I entered
+
+circle circle star
