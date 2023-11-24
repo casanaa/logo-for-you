@@ -1,0 +1,21 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "SVG Logo Maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casanaa/logo-for-you.git#main"
+  },
+  "author": "Antonio C.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casanaa/logo-for-you/issues"
+  },
+  "homepage": "https://github.com/casanaa/logo-for-you/tree/main#readme"
+}
+
+  
